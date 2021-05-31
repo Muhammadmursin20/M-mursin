@@ -1,12 +1,13 @@
-# Aplikasi Kalkulator
-[![N|Solid](https://github.com/Ridhatur-Rahmah/kalkulatorRidha/blob/master/gambar1.png)](https://github.com/Ridhatur-Rahmah/kalkulatorRidha/blob/master/gambar1.png)
+input Mahasiswa
+[![N|Solid](https://github.com/Ridhatur-Rahmah/Mahasiswa/blob/master/input.png)](https://github.com/Ridhatur-Rahmah/Mahasiswa/blob/master/input.png)
 
-[![N|Solid](https://github.com/Ridhatur-Rahmah/kalkulatorRidha/blob/master/gambar2.png)](https://github.com/Ridhatur-Rahmah/kalkulatorRidha/blob/master/gambar2.png)
+update 
+[![N|Solid](https://github.com/Ridhatur-Rahmah/Mahasiswa/blob/master/update.png)](https://github.com/Ridhatur-Rahmah/Mahasiswa/blob/master/update.png)
 
-[![N|Solid](https://github.com/Ridhatur-Rahmah/kalkulatorRidha/blob/master/gambar3.png)](https://github.com/Ridhatur-Rahmah/kalkulatorRidha/blob/master/gambar3.png)
+remove
+[![N|Solid](https://github.com/Ridhatur-Rahmah/Mahasiswa/blob/master/remove.png)](https://github.com/Ridhatur-Rahmah/Mahasiswa/blob/master/remove.png)
 
-[![N|Solid](https://github.com/Ridhatur-Rahmah/kalkulatorRidha/blob/master/gambar4.png)(https://github.com/Ridhatur-Rahmah/kalkulatorRidha/blob/master/gambar4.png)
+search
+[![N|Solid](https://github.com/Ridhatur-Rahmah/Mahasiswa/blob/master/search.png)](https://github.com/Ridhatur-Rahmah/Mahasiswa/blob/master/search.png)
 
-[![N|Solid](https://github.com/Ridhatur-Rahmah/kalkulatorRidha/blob/master/gambar5.png)(https://github.com/Ridhatur-Rahmah/kalkulatorRidha/blob/master/gambar5.png)
 
-[![N|Solid](https://github.com/Ridhatur-Rahmah/kalkulatorRidha/blob/master/gambar6.png)(https://github.com/Ridhatur-Rahmah/kalkulatorRidha/blob/master/gambar6.png)
